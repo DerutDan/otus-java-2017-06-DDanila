@@ -11,5 +11,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.github.wvengen:proguard-maven-plugin:2.0.14" level="project" />
   </component>
 </module>
