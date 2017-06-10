@@ -1,2 +1,8 @@
-# otus-java-2017-06-DDanila
-Homework
+# Примеры для курса "Разработчик Java" в Otus.ru
+
+Группа 2017-06
+
+### Автор 
+Дерут Даниил
+
+danilderut@gmail.com
